@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/angel-hacks-2021/static/css/main.0fcc545d.chunk.css",
+    "main.js": "/angel-hacks-2021/static/js/main.73f16fb9.chunk.js",
+    "main.js.map": "/angel-hacks-2021/static/js/main.73f16fb9.chunk.js.map",
+    "runtime-main.js": "/angel-hacks-2021/static/js/runtime-main.46ffdbbf.js",
+    "runtime-main.js.map": "/angel-hacks-2021/static/js/runtime-main.46ffdbbf.js.map",
+    "static/css/2.e6473e87.chunk.css": "/angel-hacks-2021/static/css/2.e6473e87.chunk.css",
+    "static/js/2.d1a6f625.chunk.js": "/angel-hacks-2021/static/js/2.d1a6f625.chunk.js",
+    "static/js/2.d1a6f625.chunk.js.map": "/angel-hacks-2021/static/js/2.d1a6f625.chunk.js.map",
+    "index.html": "/angel-hacks-2021/index.html",
+    "static/css/2.e6473e87.chunk.css.map": "/angel-hacks-2021/static/css/2.e6473e87.chunk.css.map",
+    "static/css/main.0fcc545d.chunk.css.map": "/angel-hacks-2021/static/css/main.0fcc545d.chunk.css.map",
+    "static/js/2.d1a6f625.chunk.js.LICENSE.txt": "/angel-hacks-2021/static/js/2.d1a6f625.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46ffdbbf.js",
+    "static/css/2.e6473e87.chunk.css",
+    "static/js/2.d1a6f625.chunk.js",
+    "static/css/main.0fcc545d.chunk.css",
+    "static/js/main.73f16fb9.chunk.js"
+  ]
+}
